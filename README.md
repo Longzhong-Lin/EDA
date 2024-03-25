@@ -23,7 +23,11 @@ Our approach enhances all metrics compared to the baseline MTR, particularly wit
 
 ## Getting Started
 
-The codes will be released soon.
+- [Installation](docs/INSTALL.md)
+
+- [Dataset Preparation](docs/DATASET.md)
+
+- [Training & Evaluation](docs/TRAIN_VAL.md)
 
 
 ## Main Results
@@ -57,3 +61,6 @@ If you find this work useful in your research, please consider cite:
       primaryClass={cs.CV}
 }
 ```
+
+## :heart: We thank the following users who open repositories on Github for us to build on for our experiments
+- Shaoshuai Shi (MTR): https://github.com/sshaoshuai/MTR
