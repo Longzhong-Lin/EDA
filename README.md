@@ -55,13 +55,14 @@ Our approach enhances all metrics compared to the baseline MTR, particularly wit
 ## Citation
 If you find this work useful in your research, please consider cite:
 ```
-@misc{lin2023eda,
-      title={EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction}, 
-      author={Longzhong Lin and Xuewu Lin and Tianwei Lin and Lichao Huang and Rong Xiong and Yue Wang},
-      year={2023},
-      eprint={2312.09501},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{lin2024eda,
+  title={EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction},
+  author={Lin, Longzhong and Lin, Xuewu and Lin, Tianwei and Huang, Lichao and Xiong, Rong and Wang, Yue},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3432--3440},
+  year={2024}
 }
 ```
 
